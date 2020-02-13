@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/millertron/rabbitmq-node/issues"
   },
-  "homepage": "https://github.com/millertron/rabbitmq-node#readme"
+  "homepage": "https://github.com/millertron/rabbitmq-node#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
 }
